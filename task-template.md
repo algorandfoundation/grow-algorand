@@ -2,13 +2,13 @@
 
 ## Overview
 
-* **Title**: This is the task title
+* **Short Description**: This is a short description
 * **Bounty**: xxx ALGO
 * **Estimated Time Commitment**: xxx Days  
 (For the following info, please also add the according labels to the issue)
 * **Category**: Development / Content / Both
 * **Experience Level**: Beginner / Intermediate / Advanced
-* **Language Skills**: 中文
+* **Language Skills**: English / 中文
 * **Status**: Open / In.Progress / Completed
 
 
@@ -20,10 +20,22 @@ Here should describes
 * why does this task need to be done
 * what are the benefits to the Algorand ecosystem
 
-### What are the deliverables? 
-Here should clearly indicate a list of deliverables that should be completed upon the completetion of this task.
-
-Each of the deliverable should has a judging criteria and metrics for later evaluation.
-
 ### What are the requirements for the bounty taker?
 Here should explain what are the needed background knowledge for completing this task. 
+
+### What are the deliverables? 
+**1. Develiverable Name**
+
+_Description_
+
+...
+
+_Judging Criteria and Metrics_ 
+  * ...
+
+_Submission Procedure_ 
+  * To submit the completed content, submit a pull request to this repo with the content/codes in the `./xxx` folder. 
+  * Name the file after...
+  * In the description of pull requests, please refer to this issue.
+  * Reply this issue with the link to the pull request
+
