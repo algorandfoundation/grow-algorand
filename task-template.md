@@ -8,7 +8,7 @@
 (For the following info, please also add the according labels to the issue)
 * **Category**: Development / Content / Both
 * **Experience Level**: Beginner / Intermediate / Advanced
-* **Language Skills**: English / 中文
+* **Language Skills**: 中文
 * **Status**: Open / In.Progress / Completed
 
 
