@@ -24,7 +24,7 @@ Here should describes
 Here should explain what are the needed background knowledge for completing this task. 
 
 ### What are the deliverables? 
-**1. Develiverable Name**
+**1. Deliverable Name**
 
 _Description_
 
