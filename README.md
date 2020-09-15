@@ -1,7 +1,9 @@
 # Grow Algorand Bounty Program
 
-Welcome the Grow Algorand Bounty Program.
-This program is for you to complete tasks and earn ALGOs. ❤️
+![Algorand Foundation Logo](img/logo.png)
+
+Welcome the Grow Algorand Bounty Program. 
+Complete developement tasks and earn some ALGOs. ❤️
 
 ## What kind of tasks can I work on?
 We currently have two categories of tasks for you to work on
@@ -9,7 +11,7 @@ We currently have two categories of tasks for you to work on
 * Content - Write something about Algorand
 (Development Tasks may need a document as well)
 
-In addition, you are also more than welcomed to submit your own ideas
+**In addition, you are also more than welcomed to submit your own ideas**
 
 ## How to join?
 Here's what you need to do
