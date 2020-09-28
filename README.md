@@ -14,16 +14,16 @@
 3. [登记投票](https://developer.algorand.org/solutions/example-permissioned-voting-stateful-smart-contract-application/#voters-opt-into-voting-smart-contract-step-3) - 选民需要通过选择进入合约的方式以在智能投票合约中注册。注册投票发生在合约创立过程中设定的一组回合之间；
 4. [投票](https://developer.algorand.org/solutions/example-permissioned-voting-stateful-smart-contract-application/#users-vote-step-4) - 选民通过原子式地将两个交易分组并提交给区块链进行投票。第一个交易是调用智能合约，为候选人a或候选人b投票。第二个交易是从选民到中央当局的资产转移，以使用他们的投票权标记。
 
-![image](https://github.com/GinVenXi/test/blob/master/figure%201.png)
+![image](https://github.com/tutugogo/grow-algorand/blob/master/figure%201.png)
 
-![image](https://github.com/GinVenXi/test/blob/master/figure%202.png)
+![image](https://github.com/tutugogo/grow-algorand/blob/master/figure%202.png)
 
 这个架构中的每个步骤将在下面的小节中解释。此解决方案仅使用goal来使应用程序调用有状态应用程序。SDKs也提供了同样的功能，可以用来代替goal。
 
 ## 创造资产-第一步
 中央机构首先需要创建一个投票代币。这可以通过[SDKs](https://developer.algorand.org/docs/features/asa/#creating-an-asset)，或者goal [命令行工具](https://developer.algorand.org/docs/reference/cli/goal/asset/create/)，或使用像[algodesk.io](https://algodesk.io/)这样的资产创建IDE来实现。
 
-![image](https://github.com/GinVenXi/test/blob/master/figure%203.png)
+![image](https://github.com/tutugogo/grow-algorand/blob/master/figure%203.png)
 
 下面是一个使用goal创建投票代币的示例。
 
@@ -49,7 +49,7 @@ $ goal asset send -a 1 -f {CENTRAL_ACCOUNT} -t {VOTER_ACCOUNT}  --creator {CENTR
 
 Goal命令行工具提供了一组用于操作应用程序且与应用程序相关的命令。goal app create命令用于创建应用程序。这是一个针对区块链的特定应用程序交易，类似于Algorand Assets的工作方式，它将返回一个应用程序ID。将几个参数传递给创建方法。这些参数主要围绕应用程序使用了多少存储空间。在有状态智能合约中，您将存储指定为全局或本地存储。全局存储表示应用程序本身可用的空间量，本地存储表示每个账户的余额记录中应用程序每个账户将使用的空间量。
 
-![image](https://github.com/GinVenXi/test/blob/master/figure%204.png)
+![image](https://github.com/tutugogo/grow-algorand/blob/master/figure%204.png)
 
 在投票应用程序中使用了七个全局变量(一个字节片和六个整数)和一个本地存储变量(字节)。全局字节切片用于构建创建者地址，六个全局整数表示注册和投票的整数范围。本地字节切片用于存储特定账户(即候选人a或候选人b)的投票。
 
@@ -116,7 +116,7 @@ not_creation:
 ## 选民选择签订投票智能合约-第三步
 如果合约使用本地存储，用户必须选择有状态智能合约。此应用程序将选民的选择存储在本地存储中，并要求用户选择加入。
 
-![image](https://github.com/GinVenXi/test/blob/master/figure%205.png)
+![image](https://github.com/tutugogo/grow-algorand/blob/master/figure%205.png)
 
 使用goal或sdk可以选择加入。
 
@@ -169,7 +169,7 @@ return
 ## 用户投票-第四步
 一旦注册了智能合约，用户就可以投票了。这需要在两个交易中使用原子传输。第一个应该是调用有状态智能合约投票，第二个应该是从投票者到中央机构的资产转移(投票代币)。
 
-![image](https://github.com/GinVenXi/test/blob/master/figure%206.png)
+![image](https://github.com/tutugogo/grow-algorand/blob/master/figure%206.png)
 
 本例中的原子传输是使用goal命令行工具完成的。
 
