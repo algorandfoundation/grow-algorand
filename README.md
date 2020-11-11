@@ -31,4 +31,6 @@ If you need someone to help you:
 * Algorand Forum: https://forum.algorand.org/
 * WeChant Channel: Algorand 中文
 
-
+## Terms and Agreements
+All bounty projects shall be covered by [the bounty agreement](./bounty-agreement.md).
+By accepting the bounty project you acknoledge and follow this agreement.
