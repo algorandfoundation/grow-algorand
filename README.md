@@ -26,9 +26,7 @@ We offer rewards to developers who contribute tutorial and solution articles to 
 |Beginner Tutorial|1,000 Algos|
 |Intermediate Tutorial|2,500 Algos|
 |Advanced Tutorial|5,000 Algos|
-|*Supported with Video|1,000 Algos|
-*Supporting Video Reward can apply across all activity types above
-
+|*Supported with Video<br />(Supporting Video Reward can apply across all activity types above)|1,000 Algos|
 To submit your articles: https://developer.algorand.org/pages/submissions/
 
 To claim rewards after your article has been published on the website: https://docs.google.com/document/d/13Y89ZZEi8jNtuGmdKlC2PnLEUhkevZd-8roFrXFJ6us/edit
