@@ -7,7 +7,7 @@ As a developer, here you can find all the programs in the Algorand ecosystem tha
 - [Joining Developer Ambassdor Program](#Develop-Ambassdor-Program) : Write technical tutorial and solutions
 - [Joining Bounty Program](#Bounty-Program): Take bounty tasks
 - [Joining Grant Program](#Grant-Program): Get grant for your projects 
-- [Join Hackathons](#Hackathons): Get a team and join our hackathons
+- [Joining Hackathons](#Hackathons): Get a team and join our hackathons
 - [Learning Courses](#Courses): Attend our courses
 
 ## If you need helps...
