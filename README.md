@@ -49,6 +49,11 @@ Here's how it works:
 * Someone will contact you to process your bounty rewards
 * HODL ✌️
 
+Alternatively, **if you have your own ideas**
+* feel free to post your idea on the issue page
+* we will evaluate them and put a price on it
+> As an instruction, most of the bounties will be lower than 10,000 USD, so if you have a bigger idea, you might want to break it up into several phases: a Design Document, a prototype or a MVP. If it goes well at some point, we may accept it as a grant project.
+
 **Terms and Agreements of Bounty Tasks**
 
 All bounty projects shall be covered by [the bounty agreement](./bounty-agreement.md).
