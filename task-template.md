@@ -23,7 +23,7 @@ Here should describes
 Here should explain what are the needed background knowledge for completing this task. 
 
 ### What are the deliverables? 
-**1. Deliverable Name**
+**1. Deliverable Name (e.g. the proejct code repository)**
 
 _Description_
 
@@ -35,7 +35,7 @@ _Judging Criteria and Metrics_
 _Submission Procedure_ 
  * Submit the project link 
 
-**2. Deliverable Name**
+**2. Deliverable Name (e.g. the tutorial document)**
 
 _Description_
 
