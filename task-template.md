@@ -8,7 +8,6 @@
 (For the following info, please also add the according labels to the issue)
 * **Category**: Development / Content / Both
 * **Experience Level**: Beginner / Intermediate / Advanced
-* **Language Skills**: English / 中文
 * **Status**: Open / In.Progress / Completed
 
 
@@ -34,8 +33,16 @@ _Judging Criteria and Metrics_
   * ...
 
 _Submission Procedure_ 
-  * To submit the completed content, submit a pull request to this repo with the content/codes in the `./xxx` folder. 
-  * Name the file after...
-  * In the description of pull requests, please refer to this issue.
-  * Reply this issue with the link to the pull request
+ * Submit the project link 
 
+**2. Deliverable Name**
+
+_Description_
+
+...
+
+_Judging Criteria and Metrics_ 
+  * ...
+
+_Submission Procedure_ 
+ * Submit your tutorial to developer.algorand.org
