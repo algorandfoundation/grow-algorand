@@ -35,6 +35,9 @@ To claim rewards after your article has been published on the website: https://d
 
 
 ## Bounty Program
+
+> We are in the process of moving all boutnies to [Gitcoin platform](https://gitcoin.co/) over the next weeks and are concerned that new applications may get missed in that transition - we advice bounty applicants to hold off on submitting their applications.
+
 Earn ALGOs by completing bounty tasks.
 
 Find all the available bounties on [the issue page of this repo](https://github.com/algorandfoundation/grow-algorand/issues).
@@ -64,8 +67,6 @@ By accepting the bounty project you acknoledge and follow this agreement.
 We offer grants to projects who help to grow the Algorand ecosystem.
 
 Find more details on the [Algorand Foundation website](https://algorand.foundation/grants-program).
-
-> We are in the process of moving to a new grant management platform over the next weeks and are concerned that new applications may get missed in that transition - we advice grant applicants to hold off on submitting their applications
 
 ## Hackathons
 
