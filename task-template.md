@@ -44,7 +44,8 @@ _Submission Procedure_
  * Submit your tutorial to developer.algorand.org
 
 ## Other Requirements
-* All project codes should be published on Github, with and MIT lincense or Apache Lincense V2.
-* All contributions/PR to outside repository should be open source and should follow the contributions rules of the relevant repository
-* All non-codes documents should be using Markdown format
-* In the project description or repository readme, there should be a propoer security notice. E,g, One that tells the visitor the project is not audited and should not be used in production environment without auditing.
+
+* All project codes should be published on GitHub, with [MIT license](https://opensource.org/licenses/MIT) or [Apache V2 license](https://www.apache.org/licenses/LICENSE-2.0).
+* All contributions/PRs to public (Algorand) repositories should be open source and should follow the contributions rules of the relevant repository.
+* All non-codes documents should be using Markdown format.
+* In the project description or repository readme, there should be a proper security notice. E.g., it should tell the visitor the project is not audited and should not be used in a production environment.
