@@ -43,7 +43,7 @@ _Judging Criteria and Metrics_ (optional)
 _Submission Procedure_ 
 * Submit your blog post following these steps:
  
-- [ ] Create a community member profile: https://algorand.foundation/ecosystem/community
+- [ ] Create an account in the [Developer Portal](https://developer.algorand.org/accounts/signup/)
 - [ ] Complete your profile
 - [ ] Select Blog from the left sidebar in Admin Dashboard
 - [ ] Click New Blog Post
