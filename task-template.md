@@ -29,7 +29,7 @@ _Judging Criteria and Metrics_ (optional)
   * ...
 
 _Submission Procedure_ 
- * Submit the project link / pr link on Gitcoin
+ * Submit the project/PR link on the Gitcoin bounty thread in GitHub
 
 **2. Deliverable Name (e.g. the tutorial document)**
 
