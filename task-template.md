@@ -31,14 +31,18 @@ _Judging Criteria and Metrics_ (optional)
 _Submission Procedure_ 
  * Submit the project/PR link on the Gitcoin bounty thread in GitHub
 
-**2. Deliverable Name (e.g. the tutorial document)**
+**2. Deliverable Name (e.g. tutorial)**
 
 _Description_
 
-...
+... --> e.g. Submit a tutorial describing all steps on the Algorand [Developer Portal](https://developer.algorand.org/tutorials/).
 
-_Judging Criteria and Metrics_ (optional)
-  * ...
+_Judging Criteria and Metrics_
+
+* Blog submissions will be evaluated by the Algorand Community team
+* Include code snippets using [markdown code blocks](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting)
+* Add images where relevant and submit the source files for these images
+* Check your blog post with [Grammarly](https://app.grammarly.com/)
 
 _Submission Procedure_ 
 * Submit your blog post following these steps:
