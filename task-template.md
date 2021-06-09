@@ -53,6 +53,8 @@ _Submission Procedure_
 - [ ] Send a message on the Gitcoin bounty that you've published a blog post together with your username so the Algorand team can review it
 
 ## Other Requirements
+For questions, reach out to [Algorand on Discord](https://discord.gg/84AActu3at).
+
 * Taking this bounty task means you have agreed to our [Bounty Agreement terms and policies](https://github.com/algorandfoundation/grow-algorand/blob/master/bounty-agreement.md).
 * All project codes should be published on GitHub, with [MIT license](https://opensource.org/licenses/MIT) or [Apache V2 license](https://www.apache.org/licenses/LICENSE-2.0).
 * All contributions/PRs to public (Algorand) repositories should be open source and should follow the contributions rules of the relevant repository.
