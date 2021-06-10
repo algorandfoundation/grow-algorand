@@ -3,7 +3,7 @@
 ## Overview
 
 * **Short Description**: This is a short description
-* **Bounty**: $XXX (- $XXXX) USDCa
+* **Bounty**: $XXX (- $XXXX) USDCa or equivalent in ALGO tokens _(The amount of ALGO will be based on the 30-day average price of ALGO on the payment date)_
 * **Estimated Time Commitment**: xxx Days/Weeks  
 (For the following info, please also add the according labels to the issue)
 * **Category**: Development / Content / Both
