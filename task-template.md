@@ -1,4 +1,4 @@
-# This is the task title [$XXX (-$XXXX)] 
+# This is the task title
 
 ## Overview
 
