@@ -8,6 +8,7 @@
 (For the following info, please also add the according labels to the issue)
 * **Category**: Development / Content / Both
 * **Experience Level**: Beginner / Intermediate / Advanced (multiple can apply)
+* **Mode**: Traditional / Contest / Collaborative
 
 
 ## Description
