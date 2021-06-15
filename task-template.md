@@ -48,14 +48,10 @@ _Judging Criteria and Metrics_
 _Submission Procedure_ 
 * Submit your blog post following these steps:
  
-- [ ] Create an account in the [Developer Portal](https://developer.algorand.org/accounts/signup/)
-- [ ] Complete your profile
-- [ ] Select Blog from the left sidebar in Admin Dashboard
-- [ ] Click New Blog Post
-- [ ] Fill in the title and content. Upload a featured image.
-- [ ] When you’re done writing, click Save as Draft to preview or click Submit to publish
-- [ ] Check the appropriate boxes in the authorization modal and click Submit
-- [ ] Send a message on the Gitcoin bounty that you've published a blog post together with your username so the Algorand team can review it
+- [ ] [Sign Up](https://developer.algorand.org/accounts/signup/) or login on the Algorand Developer Portal.
+- [ ] Create a new publication, of type "Tutorial" or "Solution" on the Algorand Developer Portal.
+- [ ] Draft your publication and "Submit for Review".
+- [ ] Send a message on the Gitcoin bounty with a link to your draft on the Dev Portal and a link to your public code repository if you would like the public to be able to provide feedback that the Algorand Team can see and use during judging.
 
 ## Other Requirements
 For questions, reach out to [Algorand on Discord](https://discord.gg/84AActu3at).
