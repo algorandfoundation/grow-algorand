@@ -20,7 +20,7 @@ Here should describes the background of the task and the specifications of this 
 Here should explain what are the needed background knowledge for completing this task. 
 
 ### What are the deliverables? 
-**1. Deliverable Name (e.g. the proejct code repository)**
+**1. Deliverable Name (e.g. the project code repository)**
 
 _Description_
 
@@ -48,16 +48,16 @@ _Judging Criteria and Metrics_
 _Submission Procedure_ 
 * Submit your blog post following these steps:
  
-- [ ] [Sign Up](https://developer.algorand.org/accounts/signup/) or login on the Algorand Developer Portal.
+- [ ] [Sign Up](https://developer.algorand.org/accounts/signup/) or Log In onto the Algorand Developer Portal.
 - [ ] Create a new publication, of type "Tutorial" or "Solution" on the Algorand Developer Portal.
 - [ ] Draft your publication and "Submit for Review".
-- [ ] Send a message on the Gitcoin bounty with a link to your draft on the Dev Portal and a link to your public code repository if you would like the public to be able to provide feedback that the Algorand Team can see and use during judging.
+- [ ] Send a message on the Gitcoin bounty with a link to your draft on the Developer Portal and a link to your public code repository if you would like the public to be able to provide feedback that the Algorand Team can see and use during judging.
 
 ## Other Requirements
 For questions, reach out to [Algorand on Discord](https://discord.gg/84AActu3at).
 
 * Taking this bounty task means you have agreed to our [Bounty Agreement terms and policies](https://github.com/algorandfoundation/grow-algorand/blob/master/bounty-agreement.md).
-* All project codes should be published on GitHub, with [MIT license](https://opensource.org/licenses/MIT) or [Apache V2 license](https://www.apache.org/licenses/LICENSE-2.0).
+* All project codes should be published on GitHub, with an [MIT license](https://opensource.org/licenses/MIT) or [Apache V2 license](https://www.apache.org/licenses/LICENSE-2.0).
 * All contributions/PRs to public (Algorand) repositories should be open source and should follow the contributions rules of the relevant repository.
 * All non-code documents should be using Markdown format.
 * In the project description or repository readme, there should be a proper security notice. E.g., it should tell the visitor the project is not audited and should not be used in a production environment.
