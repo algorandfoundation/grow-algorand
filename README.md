@@ -36,26 +36,12 @@ To claim rewards after your article has been published on the website: https://d
 
 ## Bounty Program
 
-> We are in the process of moving all bounties to the [Gitcoin platform](https://gitcoin.co/) over the next weeks and are concerned that new applications may get missed in that transition - we advise bounty applicants to hold off on submitting their applications.
-
 Earn ALGOs by completing bounty tasks.
+All bounties are now available on [Gitcoin platform](https://gitcoin.co/).
 
-Find all the available bounties on [the issue page of this repo](https://github.com/algorandfoundation/grow-algorand/issues).
+Find all the available bounties [here](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=null&org=algorand).
 
-Here's how it works:
-
-* Go to the issue page
-* Find the ones that are still labeled `Open` and reply to the issue with the necessary information  
-  (Or submit your own ideas using [the templates](./task-template.md))
-* Work on the task and complete it before the deadline
-* Submit a pull request for review (as specified by the task)
-* Someone will contact you to process your bounty rewards
-* HODL ✌️
-
-Alternatively, **if you have your own ideas**
-* feel free to post your idea on the issue page
-* we will evaluate them and put a price on it
-> As an instruction, most of the bounties will be lower than 10,000 USD, so if you have a bigger idea, you might want to break it up into several phases: a Design Document, a prototype, or an MVP. If it goes well at some point, we may accept it as a grant project.
+To apply to work on a bounty, simply register an account on Gitcoin with your Github account and follow the instructions on Gitcoin.
 
 **Terms and Agreements of Bounty Tasks**
 
