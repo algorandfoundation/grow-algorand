@@ -4,21 +4,21 @@
 
 As a developer, here you can find all the programs in the Algorand ecosystem that can help Algorand to grow, which also earn ALGOs for you as rewards by
 
-- [Joining Developer Ambassdor Program](#Develop-Ambassdor-Program) : Write technical tutorial and solutions
+- [Joining Developer Ambassador Program](#Develop-Ambassdor-Program): Write technical tutorial and solutions
 - [Joining Bounty Program](#Bounty-Program): Take bounty tasks
-- [Joining Grant Program](#Grant-Program): Get grant for your projects 
+- [Joining Grant Program](#Grant-Program): Get grants for your projects 
 - [Joining Hackathons](#Hackathons): Get a team and join our hackathons
 - [Learning Courses](#Courses): Attend our courses
 
-## If you need helps...
+## If you need help
 Find all technical materials on our developer portal: https://developer.algorand.org/
 
 If you need someone to help you:
 * Ask questions on Algorand Forum: https://forum.algorand.org/
 * Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
-* WeChant Channel: Algorand 中文
+* WeChat Channel: Algorand 中文
 
-## Developer Ambassdor Program
+## Developer Ambassador Program
 We offer rewards to developers who contribute tutorial and solution articles to our developer portal. Find more details on the [Algorand Foundation website](https://algorand.foundation/developers/dev-ambassadors).
 |Published Activity|Reward|
 |---|---|
@@ -36,7 +36,7 @@ To claim rewards after your article has been published on the website: https://d
 
 ## Bounty Program
 
-> We are in the process of moving all boutnies to [Gitcoin platform](https://gitcoin.co/) over the next weeks and are concerned that new applications may get missed in that transition - we advice bounty applicants to hold off on submitting their applications.
+> We are in the process of moving all bounties to the [Gitcoin platform](https://gitcoin.co/) over the next weeks and are concerned that new applications may get missed in that transition - we advise bounty applicants to hold off on submitting their applications.
 
 Earn ALGOs by completing bounty tasks.
 
@@ -45,7 +45,7 @@ Find all the available bounties on [the issue page of this repo](https://github.
 Here's how it works:
 
 * Go to the issue page
-* Find the ones that are still labeled `Open` and reply the issue with the necessary information  
+* Find the ones that are still labeled `Open` and reply to the issue with the necessary information  
   (Or submit your own ideas using [the templates](./task-template.md))
 * Work on the task and complete it before the deadline
 * Submit a pull request for review (as specified by the task)
@@ -55,12 +55,12 @@ Here's how it works:
 Alternatively, **if you have your own ideas**
 * feel free to post your idea on the issue page
 * we will evaluate them and put a price on it
-> As an instruction, most of the bounties will be lower than 10,000 USD, so if you have a bigger idea, you might want to break it up into several phases: a Design Document, a prototype or a MVP. If it goes well at some point, we may accept it as a grant project.
+> As an instruction, most of the bounties will be lower than 10,000 USD, so if you have a bigger idea, you might want to break it up into several phases: a Design Document, a prototype, or an MVP. If it goes well at some point, we may accept it as a grant project.
 
 **Terms and Agreements of Bounty Tasks**
 
 All bounty projects shall be covered by [the bounty agreement](./bounty-agreement.md).
-By accepting the bounty project you acknoledge and follow this agreement.
+By accepting the bounty project you acknowledge and follow this agreement.
 
 ## Grant Program
 
@@ -83,7 +83,7 @@ Find more details on the [Algorand Foundation website](https://algorand.foundati
 
 ### On-Going Events
 
-* EnCode Club Learning Sereies: https://www.encode.club/algorand-club
+* EnCode Club Learning Series: https://www.encode.club/algorand-club
 
 
 
