@@ -50,10 +50,11 @@ By registering as an Algorand Development Partner, you will receive development 
 Register here: https://forms.gle/iNA4HF89Awu3PFRD8
 
 
-## If you need help
-Find all technical materials on our developer portal: https://developer.algorand.org/
+## Where to find helps
+If your need technical supports:
 
-If you need technical support you:
+* Find all technical materials on our developer portal: https://developer.algorand.org/
+* and our educaitonal videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
 * Ask questions on Algorand Forum: https://forum.algorand.org/
 * Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
 * WeChat Channel: Algorand 中文
