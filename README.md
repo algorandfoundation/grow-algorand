@@ -14,6 +14,23 @@ As a developer, here you can find all the programs in the Algorand ecosystem tha
 - [Joining Grant Program](#Grant-Program)
 
 
+## If your need technical supports:
+
+
+* Find all technical materials on our developer portal: https://developer.algorand.org/
+* and our educaitonal videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
+* Ask questions on Algorand Forum: https://forum.algorand.org/
+* Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
+* WeChat Channel: Algorand 中文
+
+## Looking to grow Algorand with us together:
+
+
+If you are looking for develeloper education or events collaboration with us, please submit your info via this form: https://forms.gle/sRiDvfw68HB8HCdF7
+
+If you have any questions, feel free to reach out to Haichao Zhu, Developer Advocacy at Algorand Foundation; email: haichao@algorand.foundtion
+
+
 ## Bounty Program
 
 Earn ALGOs by completing bounty tasks.
@@ -50,16 +67,6 @@ By registering as an Algorand Development Partner, you will receive development 
 Register here: https://forms.gle/iNA4HF89Awu3PFRD8
 
 
-## Where to find helps
-If your need technical supports:
-
-* Find all technical materials on our developer portal: https://developer.algorand.org/
-* and our educaitonal videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
-* Ask questions on Algorand Forum: https://forum.algorand.org/
-* Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
-* WeChat Channel: Algorand 中文
-
-If you are looking for develeloper education or events collaboration with us, contact haichao@algorand.foundation
 
 
 
