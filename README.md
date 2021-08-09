@@ -63,8 +63,7 @@ Find more details on the [Algorand Foundation website](https://algorand.foundati
 
 ## Algorand Development Partner
 By registering as an Algorand Development Partner, you will receive development related demands from the Algorand Foundation and Algorand ecosystem projects.
-
-Register here: https://forms.gle/iNA4HF89Awu3PFRD8
+If you are interested, please contact haichao@algorand.foundation to schedule a call with us.
 
 
 
