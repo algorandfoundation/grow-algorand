@@ -4,14 +4,12 @@
 
 As a developer, here you can find all the programs in the Algorand ecosystem that can help Algorand to grow, which also earn ALGOs for you as rewards by
 
-**For solo developers:**
 - [Joining Bounty Program](#Bounty-Program)
 - [Joining Hackathons](#Hackathons)
 - [Learning Courses](#Courses)
-
-**For development teams:**
-- [Register as an Algorand Development Partner](#Algorand-Development-Partner)
 - [Joining Grant Program](#Grant-Program)
+- [Algorand Project-Dev Plaza](#Algorand-Project-Dev-Plaza)
+
 
 
 ## If your need technical supports:
@@ -61,12 +59,10 @@ We offer grants to projects who help to grow the Algorand ecosystem.
 
 Find more details on the [Algorand Foundation website](https://algorand.foundation/grants-program).
 
-## Algorand Development Partner
-By registering as an Algorand Development Partner, you will receive development related demands from the Algorand Foundation and Algorand ecosystem projects.
-If you are interested, please contact haichao@algorand.foundation to schedule a call with us.
+## Algorand Project-Dev Plaza
+If you are want to start a project and are looking for devs to join your team, or if you are a dev or a team of devs who are looking for projects to work on, check out [Algorand Project-Dev Plaza](https://github.com/algorandfoundation/grow-algorand/discussions)
+We are using GitHub Discussion as a temporary venue for this purpose until we build out a better solution.
 
-
-
-
-
+If you want to make a post, please contact haichao@algorand.foundation.
+(Please also feel free to contact us if you would rather not post your information to public, we will send you private emails to help you with your requirements)
 
