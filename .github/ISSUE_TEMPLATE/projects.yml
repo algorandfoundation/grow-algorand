@@ -1,0 +1,33 @@
+name: Project Post
+description: Post your project introduction and your requirements for the devs
+title: ""
+labels: [Open]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this post! Please fill in the following questions and add lables to mark the status. (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can devs contact you?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: introduction
+    attributes:
+      label: Project Introduction
+      description: Please give us a brief introduction to your project
+    validations:
+      required: true
+  - type: textarea
+    id: dev-requirements
+    attributes:
+      label: Requirements to Devs
+      description: Let us know what kind of devs are you looking for
+    validations:
+      required: true
