@@ -1,6 +1,6 @@
 name: Project Post
 description: Post your project introduction and your requirements for the devs
-title: ""
+title: "Your Project Title"
 labels: [Open]
 assignees:
   - octocat
