@@ -8,7 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this post! Please fill in the following questions and add lables to mark the status. (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
+        Thanks for taking the time to fill out this post! |
+        Please fill in the following questions and add lables to mark the status. (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
   - type: input
     id: contact
     attributes:
@@ -31,3 +32,8 @@ body:
       description: Let us know what kind of devs are you looking for
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+      Feel free to attach a file as well. E.g. your deck
+        
