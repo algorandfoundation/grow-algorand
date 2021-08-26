@@ -11,22 +11,9 @@ As a developer, here you can find all the programs in the Algorand ecosystem tha
 - [Algorand Project-Dev Plaza](#Algorand-Project-Dev-Plaza)
 
 
-
-## If your need technical supports:
-
-
-* Find all technical materials on our developer portal: https://developer.algorand.org/
-* and our educaitonal videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
-* Ask questions on Algorand Forum: https://forum.algorand.org/
-* Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
-* WeChat Channel: Algorand 中文
-
-## Looking to grow Algorand with us together:
+If you are looking for develeloper education or events collaboration with us, or any other proposals to help us grow the ecosystem please reach out to Haichao Zhu, Developer Advocacy at Algorand Foundation; email: haichao@algorand.foundtion
 
 
-If you are looking for develeloper education or events collaboration with us, please submit your info via this form: https://forms.gle/sRiDvfw68HB8HCdF7
-
-If you have any questions, feel free to reach out to Haichao Zhu, Developer Advocacy at Algorand Foundation; email: haichao@algorand.foundtion
 
 
 ## Bounty Program
@@ -40,6 +27,9 @@ To apply to work on a bounty, simply register an account on Gitcoin with your Gi
 
 
 ## Hackathons
+
+### On-Going Events
+* EnCode Club Hackathon: https://www.encode.club/encode-algorand-hackathon
 
 ### Past Events
 
@@ -66,3 +56,12 @@ We are using GitHub Discussion as a temporary venue for this purpose until we bu
 If you want to make a post, please contact haichao@algorand.foundation.
 (Please also feel free to contact us if you would rather not post your information to public, we will send you private emails to help you with your requirements)
 
+
+## If your need technical supports:
+
+
+* Find all technical materials on our developer portal: https://developer.algorand.org/
+* and our educaitonal videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
+* Ask questions on Algorand Forum: https://forum.algorand.org/
+* Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
+* WeChat Channel: Algorand 中文
