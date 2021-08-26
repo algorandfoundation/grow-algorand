@@ -1,46 +1,35 @@
-pause
-
---- 
-assignees: 
-  - Mine77
-body: 
-  - 
-    attributes: 
+name: "Project Post"
+description: "Post your project introduction and your requirements for the devs"
+labels:
+  - Open
+title: "Your Project Title"
+body:
+  - attributes:
       value: |
-          Thanks for taking the time to fill out this post! |
-          Please fill in the following questions and add lables to mark the status. (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
+        Thanks for taking the time to fill out this post! |
+        Please fill in the following questions and add lables to mark the status. |
+        (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
     type: markdown
-  - 
-    attributes: 
+  - attributes:
       description: "How can devs contact you?"
       label: "Contact Details"
       placeholder: "ex. email@example.com"
     id: contact
     type: input
-    validations: 
+    validations:
       required: true
-  - 
-    attributes: 
+  - attributes:
       description: "Please give us a brief introduction to your project"
       label: "Project Introduction"
+      placeholder: Feel free to attach a file (such as your project deck)
     id: introduction
     type: textarea
-    validations: 
+    validations:
       required: true
-  - 
-    attributes: 
+  - attributes:
       description: "Let us know what kind of devs are you looking for"
       label: "Requirements to Devs"
     id: dev-requirements
     type: textarea
-    validations: 
+    validations:
       required: true
-  - 
-    attributes: 
-      value: "Feel free to attach a file as well. E.g. your deck"
-    type: markdown
-description: "Post your project introduction and your requirements for the devs"
-labels: 
-  - Open
-name: "Project Post"
-title: "Your Project Title"
