@@ -1,39 +1,44 @@
-name: Project Post
-description: Post your project introduction and your requirements for the devs
-title: "Your Project Title"
-labels: [Open]
-assignees:
+--- 
+assignees: 
   - octocat
-body:
-  - type: markdown
-    attributes:
+body: 
+  - 
+    attributes: 
       value: |
-        Thanks for taking the time to fill out this post! |
-        Please fill in the following questions and add lables to mark the status. (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
-  - type: input
+          Thanks for taking the time to fill out this post! |
+          Please fill in the following questions and add lables to mark the status. (Use "Open" if you are still looking for devs and use "Completed" if you have found it)
+    type: markdown
+  - 
+    attributes: 
+      description: "How can devs contact you?"
+      label: "Contact Details"
+      placeholder: "ex. email@example.com"
     id: contact
-    attributes:
-      label: Contact Details
-      description: How can devs contact you?
-      placeholder: ex. email@example.com
-    validations:
+    type: input
+    validations: 
       required: true
-  - type: textarea
+  - 
+    attributes: 
+      description: "Please give us a brief introduction to your project"
+      label: "Project Introduction"
     id: introduction
-    attributes:
-      label: Project Introduction
-      description: Please give us a brief introduction to your project
-    validations:
+    type: textarea
+    validations: 
       required: true
-  - type: textarea
+  - 
+    attributes: 
+      description: "Let us know what kind of devs are you looking for"
+      label: "Requirements to Devs"
     id: dev-requirements
-    attributes:
-      label: Requirements to Devs
-      description: Let us know what kind of devs are you looking for
-    validations:
+    type: textarea
+    validations: 
       required: true
-  - type: markdown
-    attributes:
-      value: |
-      Feel free to attach a file as well. E.g. your deck
-        
+  - 
+    attributes: 
+      value: "Feel free to attach a file as well. E.g. your deck"
+    type: markdown
+description: "Post your project introduction and your requirements for the devs"
+labels: 
+  - Open
+name: "Project Post"
+title: "Your Project Title"
