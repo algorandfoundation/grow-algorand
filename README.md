@@ -4,7 +4,7 @@
 
 Here you can find an index of ecosystem programs operated by Algorand Foundation.
 
-If you want to develop on Algorand and are trying to learn how to do that, you can find a list of [development learning materials here](Development-Learning-Material).
+If you want to develop on Algorand and are trying to learn how to do that, you can find a list of [development learning materials here](#Development-Learning-Material).
 
 * **For project owners**
   * **looking to get funds from the Algorand ecosystem?** check out the [Algorand Grant Program](#Grant-Program).
