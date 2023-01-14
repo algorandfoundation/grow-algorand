@@ -17,8 +17,10 @@ Thus, NFT on Algorand only catches the attention of the creator, collector or de
 We can use various buzz word to support this strategy, and then spread it through marketing campaign/activity/action.
 <p>An Example of a Buzz Word That We Can Use:</p>
 
-1. NFT Minting Fee On Algorand Is Lower
-2. NFT Minting on Algorand Is A Faster 
+1. Algorand enables 1/1 NFT creator to mint an NTFs more quickly with lower cost of transaction
+2. NFT Project developer is greatly benefits from the low costs and fast transaction speeds that come from being on Algorand
+3. Organization who launch NFT initiative on Algorand is greatly benefits from environmentally friendly come from being on Algorand
+
 
 ## KPI
 1. Bring more traffic towards the marketplace
