@@ -26,7 +26,7 @@ We can use various buzz word to support this strategy, and then spread it throug
 3. Increase social media awareness 
 4. Building up some ‘hype’.
 
-## Marketing Strategy
+## Marketing Campaign
 
 ### Digital Marketing 
 #### Twitter Ad
