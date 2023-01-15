@@ -11,12 +11,9 @@ However, NFT on Algorand is currently in the early stages of development, meanin
 Applying the right NFT Marketing Strategy is essential to growing the whole ecosystem. The NFT market has become competitive as many blockchain networks have joined the bandwagon. Furthermore, crowds are becoming more informed and choosy at the same time.
 Thus, NFT on Algorand only catches the attention of the creator, collector or developer if Algorand uses a top-notch NFT marketing strategy. Here, I delve into the best NFT marketing strategy that Algorand can use to boost the growth of NFT on Algorand.
 ## Marketing Strategy
-<b>Buzz Word: Algorand - The Home For NFT Initiative</b>
+[SMART goals](https://www.mindtools.com/a4wo118/smart-goals) : In 6 Months, Algorand easy to remember as "The Home For NFT Initiative". 
 
-The buzz word is used to make Algorand easy to remember as "The Home For NFT Initiative"</b> and we can use various marketing campaign to support this strategy
-
-
-
+We can use various marketing campaign to support this strategy
 
 ## KPI
 1. Bring more traffic towards the marketplace
