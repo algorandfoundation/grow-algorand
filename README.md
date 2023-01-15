@@ -10,7 +10,7 @@ However, NFT on Algorand is currently in the early stages of development, meanin
 
 Applying the right NFT Marketing Strategy is essential to growing the whole ecosystem. The NFT market has become competitive as many blockchain networks have joined the bandwagon. Furthermore, crowds are becoming more informed and choosy at the same time.
 Thus, NFT on Algorand only catches the attention of the creator, collector or developer if Algorand uses a top-notch NFT marketing strategy. Here, I delve into the best NFT marketing strategy that Algorand can use to boost the growth of NFT on Algorand.
-## NFT Marketing Strategy
+## Marketing Strategy
 <b>Buzz Word: Algorand - The Home For NFT Initiative</b>
 
 The buzz word is used to make Algorand easy to remember as "The Home For NFT Initiative"</b> and we can use various marketing campaign to support this strategy
@@ -38,6 +38,15 @@ Banners ad can be a great to promote the NFT project in Algorand and even to gro
 Targeting the right audience with NFT marketing messages is one of the strategies that can accelerate the growth of the ecosystem. The main advantage of using these networks is that they are affordable and target the right crowds.
 
 There are various Blockchain Advertising Networks out there, But the more potential there is Bitmedia (https://bitmedia.io)
+
+### Transactional Marketing
+#### Retroactive Airdrop
+Retroactive airdrop can be a great to promote the NFT project in Algorand and of course will attract more users to Algorand. 
+The most important part of this method is the role of the NFT project. They must be willing to allocate a certain amount of rewards (Fungible ASA, Non-Fungible ASA) to be given to early adopters.
+
+This method has been done by many projects such as Uniswap which eventually brought more defi users to Ethereum and also Optimism (L2 Blockchain) who has successfully brought more creators, collectors, developers to their ecosystem.
+
+#### Social Mining
 
 
 
