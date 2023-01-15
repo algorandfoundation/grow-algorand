@@ -53,5 +53,5 @@ Social mining can help to build a strong and engaged community around the NFT pr
 
 FE: SUI Global use crew3 to growth their community and ecosystem (https://suiecosystem.crew3.xyz/questboard)
 
-### Artwork Curation Program
+#### Artwork Curation Program
 Artwork Curation Program can be a great to attract 1/1 NFT Creator into Algorand ecosystem. It's a kind of stimulus to bring more creators and collectors to Algorand. Foundation can purchase 3 choosen artworks per month
