@@ -11,15 +11,11 @@ However, NFT on Algorand is currently in the early stages of development, meanin
 Applying the right NFT Marketing Strategy is essential to growing the whole ecosystem. The NFT market has become competitive as many blockchain networks have joined the bandwagon. Furthermore, crowds are becoming more informed and choosy at the same time.
 Thus, NFT on Algorand only catches the attention of the creator, collector or developer if Algorand uses a top-notch NFT marketing strategy. Here, I delve into the best NFT marketing strategy that Algorand can use to boost the growth of NFT on Algorand.
 ## NFT Marketing Strategy
+<b>Buzz Word: Algorand - The Home For NFT Initiative</b>
 
-<b>Make Algorand easy to remember as "The Home For NFT Initiative"</b>
+The buzz word is used to make Algorand easy to remember as "The Home For NFT Initiative"</b> and we can use various marketing campaign to support this strategy
 
-We can use various buzz word to support this strategy, and then spread it through marketing campaign/activity/action.
-<p>An Example of a Buzz Word That We Can Use:</p>
 
-1. Algorand enables 1/1 NFT creator to mint an NTFs more quickly with lower cost of transaction
-2. NFT Project developer is greatly benefits from the low costs and fast transaction speeds that come from being on Algorand
-3. Organization who launch NFT initiative on Algorand is greatly benefits from environmentally friendly come from being on Algorand
 
 
 ## KPI
@@ -37,6 +33,11 @@ Twitter enables the creation of an NFT community. The community creates buzz abo
 But the more potential there is Twitter, considering that the NFT Creator and Collector or the NFT Community as a whole uses Twitter to interact with each other.
 #### Banner Ad
 Banners ad can be a great to promote the NFT project in Algorand and even to grow the whole ecosystem. We can distribute the banners on massive websites, such as Coinmarketcap and CoinGecko. 
+
+#### Blockchain Advertising Networks
+Targeting the right audience with NFT marketing messages is one of the strategies that can accelerate the growth of the ecosystem. The main advantage of using these networks is that they are affordable and target the right crowds.
+
+There are various Blockchain Advertising Networks out there, But the more potential there is Bitmedia (https://bitmedia.io)
 
 
 
