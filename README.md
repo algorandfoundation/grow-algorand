@@ -52,3 +52,10 @@ FE: SUI Global use crew3 to growth their community and ecosystem (https://suieco
 
 #### Artwork Curation Program
 Artwork Curation Program can be a great to attract 1/1 NFT Creator into Algorand ecosystem. It's a kind of stimulus to bring more creators and collectors to Algorand. Foundation can purchase 3 choosen artworks per month
+
+## Measure of Success
+1. Cost Per Conversion - Increase in number of NFT Creator, Collector and NFT Trading Volume. Related: [What are Conversion Costs? Definition, Formula and How To Calculate](https://www.indeed.com/career-advice/career-development/conversion-costs).
+2. Conversion Rate - Increase in number of NFT Creator, Collector and NFT Trading Volume. Related: [How To Calculate and Optimize Your Conversion Rate](https://www.indeed.com/career-advice/career-development/how-to-calculate-conversion-rate)
+3. Website Trafic - Increase in number of Website visitor. Related: [Website Traffic](https://demandscience.com/resources/blog/ways-to-measure-campaign-success/)
+4. Social engagement - Increase in number of engagement on social media post and create a hype. Related: [How To Calculate Social Media Engagement Rate](https://www.indeed.com/career-advice/career-development/how-to-calculate-social-media-engagement-rate)
+
