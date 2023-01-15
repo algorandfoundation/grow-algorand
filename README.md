@@ -49,9 +49,9 @@ This method has been done by many projects such as Uniswap which eventually brou
 #### Social Mining
 Social mining refers to a method of incentivizing community members to contribute to a project or network through rewards in the form of tokens or cryptocurrency. This can include tasks such as promoting the project on social media, creating and sharing educational content, and even only retweet a post from official. 
 
-Social mining can help to build a strong and engaged community around the NFT project in Algorand, and can also be used as a way to create a hype in market. 
+Social mining can help to build a strong and engaged community around the NFT project in Algorand, and can also be used as a way to create a hype in market. There are various Social mining platform out there, But the more potential there is crew3 (https://crew3.xyz)
 
-There are various Social mining platform out there, But the more potential there is crew3 (crew3.xyz)
+FE: ZKSync use crew3 to growth their community and ecosystem https://zksync.crew3.xyz/questboard
 
 
 
