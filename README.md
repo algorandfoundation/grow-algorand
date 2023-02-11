@@ -7,3 +7,5 @@ Due to Algorand’s extraordinary performance, more and more teams are choosing 
 
 Applying the right NFT Marketing Strategy is essential to growing the whole ecosystem. The NFT market has become competitive as many blockchain networks have joined the bandwagon. Furthermore, crowds are becoming more informed and choosy at the same time. Thus, NFT on Algorand only catches the attention of the creator, collector or developer if Algorand uses a top-notch NFT marketing strategy. Here, I delve into the best NFT marketing strategy that Algorand can use to boost the growth of NFT on Algorand.
 
+## NFT marketing strategy
+https://github.com/heksa62/grow-algorand/blob/master/Marketing%20Strategy.md
