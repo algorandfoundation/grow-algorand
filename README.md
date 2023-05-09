@@ -65,7 +65,7 @@ If you want to make a post, please contact haichao@algorand.foundation.
 ## Development Learning Material
 
 * Find all technical materials on our developer portal: https://developer.algorand.org/
-* and our educaitonal videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
+* and our educational videos: https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=1485705262
 * Ask questions on Algorand Forum: https://forum.algorand.org/
 * Join Algorand Discord for Technical Questions: https://discord.gg/YgPTCVk
 * WeChat Channel: Algorand 中文
